@@ -16,11 +16,11 @@ Alors l'adresse de l'abonné modifiée est enregistrée sur l'ensemble des contr
 
 Cloner Le projet:
 <pre>
->git clone https://github.com/javdevV/test
+git clone https://github.com/javdevV/test
 </pre>
 
 Lancer Les tests:
 <pre>
->cd test 
->mvn verify
+cd test 
+mvn verify
 </pre>
