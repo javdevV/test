@@ -24,3 +24,7 @@ Lancer Les tests:
 cd test 
 mvn verify
 </pre>
+ouvrir la page du rapport dans le path suivant
+<pre>
+\target\site\serenity\index.html
+</pre>
